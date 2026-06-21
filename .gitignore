@@ -1,0 +1,61 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Shared Libraries, Dynamic Libraries
+*.so
+*.tos
+*.a
+*.lib
+*.ln
+*.blib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debugging symbols
+*.pdb
+*.ilk
+
+# Visual Studio 2026 Cache and Project Files
+.vs/
+x64/
+Debug/
+Release/
+ARM/
+ARM64/
+*.user
+*.suo
+*.db
+*.opendb
+*.ncb
+*.pidb
+*.userosscache
+*.sln.docstates
+
+# CMake build outputs (if you use CMake later)
+/build/
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+cmake_install.cmake
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
